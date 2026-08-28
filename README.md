@@ -9,7 +9,7 @@
 
 # `LIANNE.DEV`
 
-### Software Engineer · Game Developer · IT
+### Game Developer ·  Software Engineer · IT
 
 `C#` · `C++` · `.NET` · `Unity` · `Unreal Engine` · `DirectX 12`
 
