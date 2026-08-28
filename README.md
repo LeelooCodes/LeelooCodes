@@ -7,75 +7,71 @@
 
 <div align="center">
 
-# `LIANNE.DEV`
+# LIANNE.DEV
 
-### Game Developer ·  Software Engineer · IT
+### Game Developer · Software Engineer · IT
 
-`C#` · `C++` · `.NET` · `Unity` · `Unreal Engine` · `DirectX 12`
+C# · C++ · .NET · Unity · Unreal Engine · DirectX 12
 
 </div>
 
----
+<br>
 
-## `01 // ABOUT`
+## 01 // ABOUT
 
-```text
-> whoami
-```
+**Hi, I'm Lianne.** I'm a game developer, software engineer and IT professional based in London.
 
-Hi! I'm **Lianne**, a game developer, software engineer and IT professional based in London. 
-
-I love building things across the stack- from C# desktop applications and Unity games to native C++, DirectX 12, custom engine systems and developer tools.
+I love building things across the stack — from C# desktop applications and Unity games to native C++, DirectX 12, custom engine systems and developer tools.
 
 🎓 First Class Honours BSc Computer Games Development  
 🎮 Interested in game engines, graphics, tooling and systems programming  
 🖥️ Experienced with enterprise IT and endpoint administration  
-💍 Husband & fellow developer: [@fazemodz](https://github.com/fazemodz)  
+💍 Husband & fellow developer: [@fazemodz](https://github.com/fazemodz)
 
----
+<br>
 
-## `02 // GAME & ENGINE DEVELOPMENT`
+## 02 // GAME & ENGINE DEVELOPMENT
 
-Coming Soon.
+*Coming soon.*
 
----
+<br>
 
-## `03 // SOFTWARE ENGINEERING`
+## 03 // SOFTWARE ENGINEERING
 
-Coming Soon.
+*Coming soon.*
 
----
+<br>
 
-## `04 // PROJECTS`
+## 04 // PROJECTS
 
-Coming Soon.
+*Coming soon.*
 
----
+<br>
 
-## `05 // IT & SYSTEMS`
+## 05 // IT & SYSTEMS
 
-Coming Soon.
+*Coming soon.*
 
----
+<br>
 
-## `06 // TOOLBOX`
+## 06 // TOOLBOX
 
-Coming Soon.
+*Coming soon.*
 
----
+<br>
 
-## `07 // CURRENTLY BUILDING`
+## 07 // CURRENTLY BUILDING
 
-Coming Soon.
+*Coming soon.*
 
----
+<br>
 
-## `08 // GITHUB ACTIVITY`
+## 08 // GITHUB ACTIVITY
 
-Coming Soon.
+*Coming soon.*
 
----
+<br>
 
-## `09 // CONNECT`
+## 09 // CONNECT
 
-Coming Soon.
+*Coming soon.*
