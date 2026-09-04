@@ -1,3 +1,4 @@
+<a id="top"></a>
 <!--
 ╔══════════════════════════════════════════════════════════════╗
 ║                     LIANNE.DEV                              ║
@@ -13,9 +14,25 @@
 
 C# · C++ · .NET · Unity · Unreal Engine · DirectX 12
 
+### 🗺️ QUICK TRAVEL
+
+[About](#about) ·
+[Game & Engine Dev](#game-dev) ·
+[Software Engineering](#software) ·
+[Projects](#projects) ·
+[IT & Systems](#it-systems) ·
+[Toolbox](#toolbox) ·
+[Currently Building](#building) ·
+[GitHub Activity](#activity) ·
+[Connect](#connect)
+
+---
+
 </div>
 
 <br>
+
+<a id="about"></a>
 
 ## 01 // ABOUT
 
@@ -29,6 +46,8 @@ I love building things across the stack — from C# desktop applications and Uni
 💍 Husband & fellow developer: [@fazemodz](https://github.com/fazemodz)
 
 <br>
+
+<a id="game-dev"></a>
 
 ## 02 // GAME & ENGINE DEVELOPMENT
 
@@ -54,6 +73,8 @@ Built A* grid-based pathfinding with terrain penalties, compared custom navigati
 
 
 <br>
+
+<a id="software"></a>
 
 ## 03 // SOFTWARE ENGINEERING
 
@@ -87,6 +108,8 @@ Use Python, PowerShell and scripting to remove repetitive manual work and turn r
 > `PASSIVE SKILL: if I have to do the same thing twice, I start wondering whether I can automate it.`
 
 <br>
+
+<a id="projects"></a>
 
 ## 04 // PROJECTS
 
@@ -157,6 +180,8 @@ A persistent desktop planner designed around practical day-to-day organisation.
 
 <br>
 
+<a id="it-systems"></a>
+
 ## 05 // IT & SYSTEMS
 
 ### 🧩 Systems Skill Tree
@@ -191,24 +216,101 @@ Look for recurring manual work that can be simplified or automated through scrip
 
 <br>
 
+<a id="toolbox"></a>
+
 ## 06 // TOOLBOX
 
-*Coming soon.*
+### 🎒 Inventory
+
+```text
+LANGUAGES        C# · C++ · Python · TypeScript · SQL
+FRAMEWORKS       .NET 8 · WPF · Node.js · Express.js · PySide6 / Qt
+GAME TECH        Unity 6 · Unreal Engine 5 · DirectX 12
+DATA             MongoDB · SQLite
+DEV TOOLS        Git · GitHub · Visual Studio · VS Code
+IT TOOLS         ServiceNow · Intune · Jamf Pro · Ivanti · One Identity ARS
+SCRIPTING        PowerShell · Bash · Python
+```
+
+> `LOADOUT: built for debugging, building and automating.`  
 
 <br>
+
+<a id="building"></a>
 
 ## 07 // CURRENTLY BUILDING
 
-*Coming soon.*
+### 🚧 Active Quest
+
+**Job Application Tracker**
+
+```text id="d8q4wh"
+TYPE        Desktop Productivity Tool
+STACK       Python · PySide6 · Qt · SQLite
+STATUS      Planning / Build Starting
+```
+
+A desktop application for tracking job applications, statuses, companies, roles, dates, interview progress and outcomes — inspired by the structure of my existing planner application.
+
+Planned features include:
+
+* Application status tracking
+* Company and role records
+* Dates applied and follow-up dates
+* Interview and rejection tracking
+* Notes and application history
+* Search / filtering
+* Persistent local storage
+* Simple dashboard-style overview
+
+> `CURRENT OBJECTIVE: turn job-search chaos into something queryable.`
 
 <br>
+
+<a id="activity"></a>
 
 ## 08 // GITHUB ACTIVITY
 
-*Coming soon.*
+### 📊 Player Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=LeelooCodes&show_icons=true&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeelooCodes&layout=compact&hide_border=true" />
+
+</div>
+
+> `ACTIVITY LOG: commits, experiments and side quests in progress.`
 
 <br>
 
+<a id="connect"></a>
+
 ## 09 // CONNECT
 
-*Coming soon.*
+### 📡 Open Channels
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-LeelooCodes-181717?logo=github\&logoColor=white)](https://github.com/LeelooCodes)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lianne%20Koka-0A66C2?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/lianne-koka/)
+
+</div>
+
+I’m always happy to connect with people working in:
+
+**Game Development · Software Engineering · Developer Tools · Engine Programming · IT / Infrastructure**
+
+> `CONNECTION STATUS: open to collaborators, interesting problems and new quests.`
+
+<div align="center">
+
+---
+
+**Thanks for stopping by.**
+
+`PLAYER ONE // LIANNE.DEV`
+
+</div>
