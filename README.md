@@ -1,4 +1,5 @@
 <a id="top"></a>
+
 <!--
 ╔══════════════════════════════════════════════════════════════╗
 ║                     LIANNE.DEV                              ║
@@ -10,7 +11,7 @@
 
 # LIANNE.DEV
 
-### Game Developer · Software Engineer · IT
+### Game Developer · Software Engineer · IT Operations
 
 C# · C++ · .NET · Unity · Unreal Engine · DirectX 12
 
@@ -38,11 +39,11 @@ C# · C++ · .NET · Unity · Unreal Engine · DirectX 12
 
 **Hi, I'm Lianne.** I'm a game developer, software engineer and IT professional based in London.
 
-I love building things across the stack — from C# desktop applications and Unity games to native C++, DirectX 12, custom engine systems and developer tools.
+I like building and understanding systems — from C# desktop applications and Unity games to native C++, DirectX 12, backend tools and enterprise IT automation.
 
-🎓 First Class Honours BSc Computer Games Development  
-🎮 Interested in game engines, graphics, tooling and systems programming  
-🖥️ Experienced with enterprise IT and endpoint administration  
+🎓 First Class Honours BSc Computer Games Development
+🎮 Interested in game engines, graphics, tooling and systems programming
+🖥️ Experienced with enterprise IT and endpoint administration
 💍 Husband & fellow developer: [@fazemodz](https://github.com/fazemodz)
 
 <br>
@@ -51,7 +52,7 @@ I love building things across the stack — from C# desktop applications and Uni
 
 ## 02 // GAME & ENGINE DEVELOPMENT
 
-```text
+```text id="3rx8f9"
 PLAYER CLASS     Game / Engine Programmer
 PRIMARY LANGS    C++ · C#
 ENGINES          Unity 6 · Unreal Engine 5 · Catalyst
@@ -60,17 +61,11 @@ SPECIALISATION   Systems · Tools · Gameplay · Engine Architecture
 
 ### 🎮 Quest Log
 
-**Catalyst — Custom C++ / DirectX 12 Engine**
-Worked collaboratively on a custom game engine built in C++ with DirectX 12, exploring engine architecture, rendering systems, debugging and optimisation.
-
-**TranquilTiles — Unity 6 / C#**
-Designed and developed a modular mobile puzzle game featuring multiple game modes, persistent progression, achievements, statistics and custom gameplay systems.
-
-**AI & Procedural Systems**
-Built A* grid-based pathfinding with terrain penalties, compared custom navigation approaches with Unity NavMesh, and experimented with procedural terrain generation using Perlin, fractal, ridged and detail noise.
+**Catalyst** — Collaborative C++ / DirectX 12 custom-engine work spanning architecture, rendering, debugging and optimisation.
+**TranquilTiles** — Modular Unity 6 / C# mobile puzzle game with multiple game modes and persistent progression.
+**AI & Procedural Systems** — A* pathfinding, NavMesh comparison and procedural terrain generation.
 
 > `STATUS: always looking for another system to break, understand, and rebuild better.`
-
 
 <br>
 
@@ -78,7 +73,7 @@ Built A* grid-based pathfinding with terrain penalties, compared custom navigati
 
 ## 03 // SOFTWARE ENGINEERING
 
-```text
+```text id="7vqf0n"
 DEVELOPER LOADOUT
 
 LANGUAGES        C# · C++ · Python · TypeScript · SQL
@@ -90,20 +85,10 @@ TOOLS            Git · GitHub · Visual Studio · VS Code
 
 ### ⚙️ Unlocked Abilities
 
-**Desktop Application Development**
-Build structured desktop applications in C#/.NET and Python, with persistent data, modular UI systems and practical user-focused workflows.
-
-**Managed ↔ Native Interop**
-Integrated a native C++ DLL into a .NET 8 WPF application using P/Invoke, including debugging across the managed/native boundary.
-
-**Backend & API Development**
-Built REST-style backend services with TypeScript, Node.js, Express and MongoDB, including structured logging, data validation, querying and migration workflows.
-
-**Debugging & Problem Solving**
-Comfortable tracing issues through application logic, configuration, data and system behaviour rather than treating symptoms in isolation.
-
-**Automation**
-Use Python, PowerShell and scripting to remove repetitive manual work and turn recurring problems into reusable solutions.
+**Desktop Apps** — C#/.NET and Python applications with modular interfaces and persistent data.
+**Managed ↔ Native Interop** — Native C++ DLL integration with .NET through P/Invoke.
+**Backend & APIs** — TypeScript, Node.js, Express and MongoDB with logging, validation and migration workflows.
+**Automation & Debugging** — Python/PowerShell scripting and structured investigation across code, configuration and data.
 
 > `PASSIVE SKILL: if I have to do the same thing twice, I start wondering whether I can automate it.`
 
@@ -119,7 +104,7 @@ Use Python, PowerShell and scripting to remove repetitive manual work and turn r
 
 ### 📦 SDK Package Manager
 
-```text
+```text id="rq9qdw"
 TYPE        Developer Tool
 STACK       C# · .NET 8 · WPF · C++ · P/Invoke
 STATUS      Playable Build ✓
@@ -127,11 +112,10 @@ STATUS      Playable Build ✓
 
 A Windows desktop package manager built to explore real-world .NET application development and native interoperability.
 
-* Install, update and remove SDK packages
-* Version-aware package state handling
-* Native C++ DLL integration through P/Invoke
-* Managed ↔ native debugging
-* Modular WPF application structure
+* Install, update and remove SDK packages with version-aware state handling
+* Integrate a native C++ DLL through P/Invoke
+* Debug across the managed ↔ native boundary
+* Structure a modular WPF desktop application
 
 🔗 [View Repository](https://github.com/LeelooCodes/SdkPackageManager)
 
@@ -139,7 +123,7 @@ A Windows desktop package manager built to explore real-world .NET application d
 
 ### 🛠️ SupportLab
 
-```text
+```text id="upxfr0"
 TYPE        Backend / Product Support Lab
 STACK       TypeScript · Node.js · Express · MongoDB
 STATUS      Investigation Complete ✓
@@ -147,18 +131,17 @@ STATUS      Investigation Complete ✓
 
 A simulated SaaS support environment built to practise debugging real product-support incidents from the API through to the database.
 
-* REST-style API development
-* Structured application logging
-* MongoDB querying and aggregation
-* Data validation and migrations
-* Incident investigation and root-cause analysis
-* Reproducing and diagnosing account / entitlement failures
+* Build and troubleshoot REST-style API endpoints
+* Use structured application logging for investigation
+* Query and aggregate data with MongoDB
+* Validate, migrate and investigate application data
+* Reproduce failures and trace incidents to root cause
 
 ---
 
 ### 📓 PyPlanner
 
-```text
+```text id="fojrv8"
 TYPE        Desktop Productivity App
 STACK       Python · PySide6 · Qt · SQLite
 STATUS      Released ✓
@@ -166,11 +149,10 @@ STATUS      Released ✓
 
 A persistent desktop planner designed around practical day-to-day organisation.
 
-* SQLite-backed persistent data
-* Modular Qt interface
-* Drag-and-drop interactions
-* Application preferences using QSettings
-* Structured desktop UI architecture
+* Store application data locally with SQLite
+* Build a modular PySide6 / Qt interface
+* Implement drag-and-drop interactions
+* Persist application preferences with QSettings
 
 🔗 [View Repository](https://github.com/LeelooCodes/Planner-App)
 
@@ -186,7 +168,7 @@ A persistent desktop planner designed around practical day-to-day organisation.
 
 ### 🧩 Systems Skill Tree
 
-```text id="w0v3jx"
+```text id="wu2knb"
 ENDPOINTS        Windows · macOS · iOS · Android
 IDENTITY         Active Directory · Entra ID · One Identity ARS
 MANAGEMENT       Intune · Jamf Pro · Ivanti · PXE
@@ -197,20 +179,10 @@ AUTOMATION       PowerShell · Python · Bash
 
 ### 🖥️ Enterprise IT Experience
 
-**Endpoint & Device Management**
-Provision, rebuild and troubleshoot Windows and macOS devices using tools including Ivanti, PXE, Jamf Pro and Microsoft Intune.
-
-**Identity & Access**
-Support user accounts, password resets, account unlocks, groups, distribution lists and access changes across Active Directory, Entra ID and One Identity Active Roles.
-
-**Troubleshooting**
-Diagnose hardware, software, authentication, networking, VPN, MFA, peripheral and workplace-technology issues using a structured isolate → test → resolve → escalate approach.
-
-**IT Operations**
-Work with ServiceNow ticketing, SLA-driven support, asset management, procurement, device lifecycle processes, documentation and cross-team escalation.
-
-**Process Improvement**
-Look for recurring manual work that can be simplified or automated through scripting, documentation and better workflows.
+**Endpoint Management** — Provisioning, rebuilding and troubleshooting Windows and macOS devices.
+**Identity & Access** — Accounts, passwords, groups, distribution lists and access administration.
+**IT Operations** — SLA-driven support, asset management, procurement, documentation and escalation.
+**Process Improvement** — Automation, scripting and reusable solutions for recurring operational work.
 
 > `IT PASSIVE: troubleshoot the problem, restore the service, then figure out how to stop it happening again.`
 
@@ -222,17 +194,17 @@ Look for recurring manual work that can be simplified or automated through scrip
 
 ### 🎒 Inventory
 
-```text
+```text id="0g8ri7"
 LANGUAGES        C# · C++ · Python · TypeScript · SQL
 FRAMEWORKS       .NET 8 · WPF · Node.js · Express.js · PySide6 / Qt
 GAME TECH        Unity 6 · Unreal Engine 5 · DirectX 12
 DATA             MongoDB · SQLite
 DEV TOOLS        Git · GitHub · Visual Studio · VS Code
 IT TOOLS         ServiceNow · Intune · Jamf Pro · Ivanti · One Identity ARS
-SCRIPTING        PowerShell · Bash · Python
+AUTOMATION       PowerShell · Bash · Python
 ```
 
-> `LOADOUT: built for debugging, building and automating.`  
+> `LOADOUT: built for debugging, building and automating.`
 
 <br>
 
@@ -244,24 +216,20 @@ SCRIPTING        PowerShell · Bash · Python
 
 **Job Application Tracker**
 
-```text id="d8q4wh"
+```text id="yqw7nt"
 TYPE        Desktop Productivity Tool
 STACK       Python · PySide6 · Qt · SQLite
-STATUS      Planning / Build Starting
+STATUS      Planning → Development
 ```
 
-A desktop application for tracking job applications, statuses, companies, roles, dates, interview progress and outcomes — inspired by the structure of my existing planner application.
+A desktop application for turning the job-search process into something structured, searchable and much easier to manage.
 
-Planned features include:
+Planned features:
 
-* Application status tracking
-* Company and role records
-* Dates applied and follow-up dates
-* Interview and rejection tracking
-* Notes and application history
-* Search / filtering
-* Persistent local storage
-* Simple dashboard-style overview
+* Application lifecycle and status tracking
+* Interview, rejection and follow-up history
+* Search, filtering and application notes
+* SQLite persistence with a dashboard-style overview
 
 > `CURRENT OBJECTIVE: turn job-search chaos into something queryable.`
 
@@ -275,9 +243,9 @@ Planned features include:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LeelooCodes&show_icons=true&hide_border=true" />
+<img height="170" alt="Lianne's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LeelooCodes&show_icons=true&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeelooCodes&layout=compact&hide_border=true" />
+<img height="170" alt="Lianne's most-used GitHub languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeelooCodes&layout=compact&hide_border=true" />
 
 </div>
 
@@ -299,11 +267,13 @@ Planned features include:
 
 </div>
 
-I’m always happy to connect with people working in:
+I'm always happy to connect with people working in:
 
 **Game Development · Software Engineering · Developer Tools · Engine Programming · IT / Infrastructure**
 
 > `CONNECTION STATUS: open to collaborators, interesting problems and new quests.`
+
+<br>
 
 <div align="center">
 
@@ -312,5 +282,7 @@ I’m always happy to connect with people working in:
 **Thanks for stopping by.**
 
 `PLAYER ONE // LIANNE.DEV`
+
+[↑ Return to Quick Travel](#top)
 
 </div>
