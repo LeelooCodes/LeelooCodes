@@ -90,7 +90,70 @@ Use Python, PowerShell and scripting to remove repetitive manual work and turn r
 
 ## 04 // PROJECTS
 
-*Coming soon.*
+### 🗺️ Mission Select
+
+---
+
+### 📦 SDK Package Manager
+
+```text
+TYPE        Developer Tool
+STACK       C# · .NET 8 · WPF · C++ · P/Invoke
+STATUS      Playable Build ✓
+```
+
+A Windows desktop package manager built to explore real-world .NET application development and native interoperability.
+
+* Install, update and remove SDK packages
+* Version-aware package state handling
+* Native C++ DLL integration through P/Invoke
+* Managed ↔ native debugging
+* Modular WPF application structure
+
+🔗 [View Repository](https://github.com/LeelooCodes/SdkPackageManager)
+
+---
+
+### 🛠️ SupportLab
+
+```text
+TYPE        Backend / Product Support Lab
+STACK       TypeScript · Node.js · Express · MongoDB
+STATUS      Investigation Complete ✓
+```
+
+A simulated SaaS support environment built to practise debugging real product-support incidents from the API through to the database.
+
+* REST-style API development
+* Structured application logging
+* MongoDB querying and aggregation
+* Data validation and migrations
+* Incident investigation and root-cause analysis
+* Reproducing and diagnosing account / entitlement failures
+
+---
+
+### 📓 PyPlanner
+
+```text
+TYPE        Desktop Productivity App
+STACK       Python · PySide6 · Qt · SQLite
+STATUS      Released ✓
+```
+
+A persistent desktop planner designed around practical day-to-day organisation.
+
+* SQLite-backed persistent data
+* Modular Qt interface
+* Drag-and-drop interactions
+* Application preferences using QSettings
+* Structured desktop UI architecture
+
+🔗 [View Repository](https://github.com/LeelooCodes/Planner-App)
+
+---
+
+> `3 MISSIONS COMPLETED // more currently loading...`
 
 <br>
 
