@@ -57,7 +57,34 @@ Built A* grid-based pathfinding with terrain penalties, compared custom navigati
 
 ## 03 // SOFTWARE ENGINEERING
 
-*Coming soon.*
+```text
+DEVELOPER LOADOUT
+
+LANGUAGES        C# · C++ · Python · TypeScript · SQL
+DESKTOP          .NET 8 · WPF · PySide6 / Qt
+BACKEND          Node.js · Express.js · MongoDB
+INTEROP          P/Invoke · Native C++ DLLs
+TOOLS            Git · GitHub · Visual Studio · VS Code
+```
+
+### ⚙️ Unlocked Abilities
+
+**Desktop Application Development**
+Build structured desktop applications in C#/.NET and Python, with persistent data, modular UI systems and practical user-focused workflows.
+
+**Managed ↔ Native Interop**
+Integrated a native C++ DLL into a .NET 8 WPF application using P/Invoke, including debugging across the managed/native boundary.
+
+**Backend & API Development**
+Built REST-style backend services with TypeScript, Node.js, Express and MongoDB, including structured logging, data validation, querying and migration workflows.
+
+**Debugging & Problem Solving**
+Comfortable tracing issues through application logic, configuration, data and system behaviour rather than treating symptoms in isolation.
+
+**Automation**
+Use Python, PowerShell and scripting to remove repetitive manual work and turn recurring problems into reusable solutions.
+
+> `PASSIVE SKILL: if I have to do the same thing twice, I start wondering whether I can automate it.`
 
 <br>
 
