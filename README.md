@@ -159,7 +159,35 @@ A persistent desktop planner designed around practical day-to-day organisation.
 
 ## 05 // IT & SYSTEMS
 
-*Coming soon.*
+### 🧩 Systems Skill Tree
+
+```text id="w0v3jx"
+ENDPOINTS        Windows · macOS · iOS · Android
+IDENTITY         Active Directory · Entra ID · One Identity ARS
+MANAGEMENT       Intune · Jamf Pro · Ivanti · PXE
+SUPPORT          ServiceNow · Remote Support · Walk-Up Support
+NETWORKING       TCP/IP · DNS · DHCP · VPN · Wi-Fi · LAN
+AUTOMATION       PowerShell · Python · Bash
+```
+
+### 🖥️ Enterprise IT Experience
+
+**Endpoint & Device Management**
+Provision, rebuild and troubleshoot Windows and macOS devices using tools including Ivanti, PXE, Jamf Pro and Microsoft Intune.
+
+**Identity & Access**
+Support user accounts, password resets, account unlocks, groups, distribution lists and access changes across Active Directory, Entra ID and One Identity Active Roles.
+
+**Troubleshooting**
+Diagnose hardware, software, authentication, networking, VPN, MFA, peripheral and workplace-technology issues using a structured isolate → test → resolve → escalate approach.
+
+**IT Operations**
+Work with ServiceNow ticketing, SLA-driven support, asset management, procurement, device lifecycle processes, documentation and cross-team escalation.
+
+**Process Improvement**
+Look for recurring manual work that can be simplified or automated through scripting, documentation and better workflows.
+
+> `IT PASSIVE: troubleshoot the problem, restore the service, then figure out how to stop it happening again.`
 
 <br>
 
