@@ -32,7 +32,26 @@ I love building things across the stack — from C# desktop applications and Uni
 
 ## 02 // GAME & ENGINE DEVELOPMENT
 
-*Coming soon.*
+```text
+PLAYER CLASS     Game / Engine Programmer
+PRIMARY LANGS    C++ · C#
+ENGINES          Unity 6 · Unreal Engine 5 · Catalyst
+SPECIALISATION   Systems · Tools · Gameplay · Engine Architecture
+```
+
+### 🎮 Quest Log
+
+**Catalyst — Custom C++ / DirectX 12 Engine**
+Worked collaboratively on a custom game engine built in C++ with DirectX 12, exploring engine architecture, rendering systems, debugging and optimisation.
+
+**TranquilTiles — Unity 6 / C#**
+Designed and developed a modular mobile puzzle game featuring multiple game modes, persistent progression, achievements, statistics and custom gameplay systems.
+
+**AI & Procedural Systems**
+Built A* grid-based pathfinding with terrain penalties, compared custom navigation approaches with Unity NavMesh, and experimented with procedural terrain generation using Perlin, fractal, ridged and detail noise.
+
+> `STATUS: always looking for another system to break, understand, and rebuild better.`
+
 
 <br>
 
